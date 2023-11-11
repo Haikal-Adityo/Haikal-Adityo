@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haikal-Adityo
+- 👋 Hi, I’m Haikal Adityo
 - 📌 I live in Yogyakarta, Indonesia
 - 🌱 I’m currently learning Gadjah Mada University
 - 🎓 I’m in the software engineering program
