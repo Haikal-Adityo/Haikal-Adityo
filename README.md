@@ -5,6 +5,7 @@
 - 🛠️ My goal is to become a back-end developer
 - 🙏 Thank you for checking out my profile!
 - 📫 You can reach me by instagram @adityohaikal
+- 📩 Or you can e-mail me through haikaladityo@gmail.com 
 
 <!---
 Haikal-Adityo/Haikal-Adityo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
